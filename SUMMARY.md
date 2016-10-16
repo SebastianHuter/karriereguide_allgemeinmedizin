@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Einleitung](README.md)
 * Grundlagen
 * Hausarztmedizin vs. Allgemeinmedizin
    * Was ist der Unterschied zwischen Hausarzt und Allgemeinmediziner?
