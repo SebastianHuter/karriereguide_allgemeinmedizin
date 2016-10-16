@@ -7,4 +7,5 @@
 * Postgraduelle Ausbildung
 * [Wie werde ich AllgemeinmedizinerIn?](second-question.md)
 * Ausbildung fertig - was nun?
+* Hausarztmedizin vs. Allgemeinmedizin
 
