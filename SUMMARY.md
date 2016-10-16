@@ -1,4 +1,6 @@
 # Summary
 
-* [What is XYZ?](first-question.md)
+* [Introduction](README.md)
+* [Was ist Allgemeinmedizin?](first-question.md)
 * [How can I do X?](second-question.md)
+
