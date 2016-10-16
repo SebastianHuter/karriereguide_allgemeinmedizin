@@ -5,4 +5,5 @@
 * [Was ist Allgemeinmedizin?](first-question.md)
 * Postgraduelle Ausbildung
 * [Wie werde ich AllgemeinmedizinerIn?](second-question.md)
+* Allgemeinmedizin im Studium
 
