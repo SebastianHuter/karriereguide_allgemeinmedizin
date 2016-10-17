@@ -1,22 +1,19 @@
 # Summary
 
-## Hintergrund
+### Hintergrund
 
 * [Einleitung](README.md)
-* [Grundlagen](grundlagen.md)
+  * [Grundlagen](grundlagen.md)
   * [Was ist Allgemeinmedizin?](first-question.md) 
   * [Hausarztmedizin vs. Allgemeinmedizin](hausarztmedizin_vs_allgemeinmedizin.md)
     * Was ist der Unterschied zwischen Hausarzt und Allgemeinmediziner?
 
 
 
-## Studium
+### Studium
 
 * [Allgemeinmedizin im Studium](allgemeinmedizin_im_studium.md)
 * [Wie werde ich AllgemeinmedizinerIn?](second-question.md) 
-
-
-## Postgraduelle Ausbildung
 
 ### Spitalsturnus
 
@@ -24,7 +21,7 @@
 
 ### Lehrpraxis
 
-## Nach der Ausbildung
+### Nach der Ausbildung
 
 * [Ausbildung fertig - was nun?](ausbildung-fertig---was-nun.md)
 
