@@ -1,2 +1,0 @@
-# Allgemeinmedizin im Studium
-
