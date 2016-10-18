@@ -1,0 +1,1 @@
+Die Aubsildung wird mit der Prüfung für Allgemeinmedizin abgeschlossen.
