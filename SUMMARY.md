@@ -20,5 +20,5 @@
 ## Forschung
 
 ## Über diesen Leitfaden
-* [Impressum](/Über den Karriereguide/impressum.md)
+* [Impressum](Über den Karriereguide/impressum.md)
 
