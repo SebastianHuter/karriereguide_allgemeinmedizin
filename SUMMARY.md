@@ -2,7 +2,6 @@
 
 ## Grundlagen
 * [Vorwort](README.md)
-* [Impressum](impressum.md)
 
 ## Studium
 
@@ -21,4 +20,5 @@
 ## Forschung
 
 ## Über diesen Leitfaden
+* [Impressum](/Über den Karriereguide/impressum.md)
 
