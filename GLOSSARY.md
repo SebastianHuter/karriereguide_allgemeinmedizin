@@ -1,15 +1,3 @@
-## Allgemeinmedizin
-Beschreibung 
-
-## Hausarzt
-Beschreibung
-
-## Ius practicandii
-Beschreibung
-
-## Lehrpraxis
-Beschreibung
-
 ##WONCA
 Du willst nicht wissen, wofür WONCA steht. Jedenfalls ist es der weltweite Dachverband von Allgemeinmedizin-Fachgesellschaften.
 
@@ -25,3 +13,10 @@ European Association of Rural and Isolated Practitioners
 ##VDGM
 Vasco da Gama Movement - Europäischer Dachverband von Jungallgemeinmediziner-Organisationen. [http://vdgm.eu](http://vdgm.eu)
 
+##EQUIP
+Europäische Arbeitsgruppe für Qualität in der Primärversorgung
+
+##WONCA Europe
+
+##ÄAO 2015
+Ärzteausbildungsordnung 2015 ("Ausbildung NEU")
