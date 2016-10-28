@@ -1,0 +1,3 @@
+"Der __Color Atlas of Family Medicine__ ist als App für Smartphone und Tablet verfügbar. Zwar ist er mit ca. 130 Euro wirklich nicht gerade günstig, jedoch hab ich bisher wenige gute Quellen gefunden, die man gut zum Lernen für Unterwegs einsetzen kann. Die App braucht keinen Online-Zugang, alle Inhalte sind am Gerät gespeichert. Jedes Kapitel enthält eine Fallvignette als Einstieg und einige hochwertige Farbfotos zum jeweiligen Krankheitsbild. Danach folgen kurz und knapp die wichtigsten Informationen rund um das Krankheitsbild."
+
+_Empfehlung von: Sebastian Huter_
