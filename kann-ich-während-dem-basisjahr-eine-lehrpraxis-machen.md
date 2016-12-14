@@ -1,0 +1,3 @@
+Leider nein. Laut Ärztegesetz darf die Basisausbildung nur in allgemeinen Krankenanstalten absolviert werden. Eine Lehrpraxis im eigentlich Sinn wird nicht angerecht. Jedoch gibt es vereinzelt Spitalsträger, die jenen Kollegen mit Ausbildungswunsch Allgemeinmedizin die Möglichkeit von "Schnuppertagen" in einer Praxis ermöglichen. 
+
+(Beispiele?)

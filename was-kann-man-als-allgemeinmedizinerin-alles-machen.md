@@ -3,3 +3,4 @@ Neben der klassischen Karriere in der Hausarztmedizin hat man als Allgemeinmediz
 - ArbeitsmedizinerIn
 - Wahlärztin / Wahlärztin
 - Sekundarärztin / Sekundararzt
+-...

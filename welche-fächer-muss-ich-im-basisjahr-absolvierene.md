@@ -1,0 +1,1 @@
+Für das Basisjahr gibt es keine gesetzlichen Vorgaben für Fächer. Insgesamt sind neun Monate zu absolvieren und dabei gewisse Kentnisse und Fähigkeiten zu erwerben, wie sie im Rasterzeugnis definiert sind. Prinzipiell kann man also auch mit seinem Arbeitgeber gewisse Sonderwünsche vereinbaren, sofern das Ausbildungsziel erreicht wird.

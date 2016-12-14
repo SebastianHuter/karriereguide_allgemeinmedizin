@@ -6,12 +6,12 @@
 ## Studium
 * [Kann ich schon während dem Studium Zusatzdiplome machen?](kann-ich-schon-während-dem-studium-zusatzdiplome-machen.md)
 
-## Basisjahr
-* Welche Fächer muss ich im Basisjahr absolvierene?
-* Kann ich während dem Basisjahr eine Lehrpraxis machen?
+## Basisausbildung
+* [Welche Fächer muss ich in der Basisausbildung absolvierene?](welche-fächer-muss-ich-im-basisjahr-absolvierene.md)
+* [Kann ich während der Basisausbildung eine Lehrpraxis machen?](kann-ich-während-dem-basisjahr-eine-lehrpraxis-machen.md)
 
 ## Spitalsturnus
-* Welche Fächer muss ich während dem Spitalsturnus absolvieren?
+* [Welche Fächer muss ich während dem Spitalsturnus absolvieren?](welche-fächer-muss-ich-während-dem-spitalsturnus-absolvieren.md)
 * Kann ich während dem Spitalsturnus eine Lehrpraxis machen?
 
 ## Lehrpraxis
