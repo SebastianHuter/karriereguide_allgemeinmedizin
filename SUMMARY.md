@@ -4,7 +4,7 @@
 * [Vorwort](README.md)
 
 ## Studium
-* Kann ich schon während dem Studium Zusatzdiplome machen?
+* [Kann ich schon während dem Studium Zusatzdiplome machen?](kann-ich-schon-während-dem-studium-zusatzdiplome-machen.md)
 
 ## Basisjahr
 * Welche Fächer muss ich im Basisjahr absolvierene?
@@ -28,13 +28,17 @@
 * Kann ich mich in Zukunft überhaupt noch in einer eigenen Praxis niederlassen?
 * Wie funktioniert das eigentlich mit der Niederlassung nach der Ausbildung?
 
+## Fort- und Weiterbildung
+* Was sind Diplomprogramme?
+* Welche Zusatzdiplome sind sinnvoll?
+
 ## Alternative Karrieremöglichkeiten
 * Ich will Hausarzt werden, aber keine eigene Praxis. Geht das?
 * Was kann man als AllgemeinmedizinerIn alles machen?
 
 ## Forschung
-* Gibt es Allgemeinmedizinische Forschung in Österreich?
-* Braucht man Forschung in der Allgemeinmedizin überhaupt?
+* [Braucht man Forschung in der Allgemeinmedizin überhaupt?](braucht-man-forschung-in-der-allgemeinmedizin-überhaupt.md)
+* [Gibt es Allgemeinmedizinische Forschung in Österreich?](gibt-es-allgemeinmedizinische-forschung-in-österreich.md)
 * Wie kann ich Forschung und Klinik verbinden?
 
 ## Über diesen Leitfaden
