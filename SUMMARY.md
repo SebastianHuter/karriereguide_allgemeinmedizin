@@ -39,7 +39,7 @@
 ## Forschung
 * [Braucht man Forschung in der Allgemeinmedizin überhaupt?](braucht-man-forschung-in-der-allgemeinmedizin-überhaupt.md)
 * [Gibt es Allgemeinmedizinische Forschung in Österreich?](gibt-es-allgemeinmedizinische-forschung-in-österreich.md)
-* Wie kann ich Forschung und Klinik verbinden?
+* [Wie kann ich Forschung und Klinik verbinden?](wie-kann-ich-forschung-und-klinik-verbinden.md)
 
 ## Über diesen Leitfaden
 * [Impressum](Über den Karriereguide/impressum.md)
