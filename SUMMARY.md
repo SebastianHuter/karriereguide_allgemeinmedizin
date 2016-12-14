@@ -33,8 +33,8 @@
 * Welche Zusatzdiplome sind sinnvoll?
 
 ## Alternative Karrieremöglichkeiten
-* Ich will Hausarzt werden, aber keine eigene Praxis. Geht das?
-* Was kann man als AllgemeinmedizinerIn alles machen?
+* [Ich will Hausarzt werden, aber keine eigene Praxis. Geht das?](ich-will-hausarzt-werden-aber-keine-eigene-praxis-geht-das.md)
+* [Was kann man als AllgemeinmedizinerIn alles machen?](was-kann-man-als-allgemeinmedizinerin-alles-machen.md)
 
 ## Forschung
 * [Braucht man Forschung in der Allgemeinmedizin überhaupt?](braucht-man-forschung-in-der-allgemeinmedizin-überhaupt.md)

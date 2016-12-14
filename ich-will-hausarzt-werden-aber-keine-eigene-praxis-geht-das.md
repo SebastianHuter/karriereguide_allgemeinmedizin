@@ -1,0 +1,1 @@
+Ja, das geht und wird in Zukunft auch einfacher werden. Bisher gab es inoffizielle Lösungen wie Dauervertretungen. Zukünftig werden aber Angebote wie Job-Sharing oder auch Anstellung in einer Praxis oder einer Primärversorgungseinheit sicher zunehmen.
