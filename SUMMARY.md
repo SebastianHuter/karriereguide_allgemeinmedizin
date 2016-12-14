@@ -12,7 +12,7 @@
 
 ## Spitalsturnus
 * [Welche Fächer muss ich während dem Spitalsturnus absolvieren?](welche-fächer-muss-ich-während-dem-spitalsturnus-absolvieren.md)
-* Kann ich während dem Spitalsturnus eine Lehrpraxis machen?
+* [Kann ich während dem Spitalsturnus eine Lehrpraxis machen?](kann-ich-während-dem-spitalsturnus-eine-lehrpraxis-machen.md)
 
 ## Lehrpraxis
 * Welche Qualitätskriterien muss eine Lehrpraxis erfüllen?
