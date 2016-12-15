@@ -1,4 +1,4 @@
-# Summary
+# Inhaltsübersicht
 
 ## Grundlagen
 * [Vorwort](README.md)
