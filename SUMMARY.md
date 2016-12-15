@@ -15,22 +15,22 @@
 * [Kann ich während dem Spitalsturnus eine Lehrpraxis machen?](kann-ich-während-dem-spitalsturnus-eine-lehrpraxis-machen.md)
 
 ## Lehrpraxis
-* Welche Qualitätskriterien muss eine Lehrpraxis erfüllen?
-* Was lerne ich in einer Lehrpraxis, dass ich nicht im Spital lernen kann?
-* Wie finde ich eine Lehrpraxis?
-* Wieviel verdient man in der Lehrpraxis?
+* [Welche Qualitätskriterien muss eine Lehrpraxis erfüllen?](welche-qualitätskriterien-muss-eine-lehrpraxis-erfüllen.md)
+* [Was lerne ich in einer Lehrpraxis, dass ich nicht im Spital lernen kann?](was-lerne-ich-in-einer-lehrpraxis-dass-ich-nicht-im-spital-lernen-kann.md)
+* [Wie finde ich eine Lehrpraxis?](wie-finde-ich-eine-lehrpraxis.md)
+* [Wieviel verdient man in der Lehrpraxis?](wieviel-verdient-man-in-der-lehrpraxis.md)
 
 ## Prüfung
 * [Literaturempfehlungen](literaturempfehlungen.md)
     * [Color Atlas of Family Medicine, 2. Auflage, McGraw-Hill](color-atlas-of-family-medicine-2-auflage-mcgraw-hill.md)
 
 ## Niederlassung
-* Kann ich mich in Zukunft überhaupt noch in einer eigenen Praxis niederlassen?
-* Wie funktioniert das eigentlich mit der Niederlassung nach der Ausbildung?
+* [Kann ich mich in Zukunft überhaupt noch in einer eigenen Praxis niederlassen?](kann-ich-mich-in-zukunft-überhaupt-noch-in-einer-eigenen-praxis-niederlassen.md)
+* [Wie funktioniert das eigentlich mit der Niederlassung nach der Ausbildung?](wie-funktioniert-das-eigentlich-mit-der-niederlassung-nach-der-ausbildung.md)
 
 ## Fort- und Weiterbildung
-* Was sind Diplomprogramme?
-* Welche Zusatzdiplome sind sinnvoll?
+* [Was sind Diplomprogramme?](was-sind-diplomprogramme.md)
+* [Welche Zusatzdiplome sind sinnvoll?](welche-zusatzdiplome-sind-sinnvoll.md)
 
 ## Alternative Karrieremöglichkeiten
 * [Ich will Hausarzt werden, aber keine eigene Praxis. Geht das?](ich-will-hausarzt-werden-aber-keine-eigene-praxis-geht-das.md)
