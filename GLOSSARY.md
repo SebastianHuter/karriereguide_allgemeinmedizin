@@ -1,22 +1,36 @@
-##WONCA
-Du willst nicht wissen, wofür WONCA steht. Jedenfalls ist es der weltweite Dachverband von Allgemeinmedizin-Fachgesellschaften.
+## WONCA
 
-##JAMÖ
+Der weltweite Dachverband von Allgemeinmedizin-Fachgesellschaften. \(World Organisation of National Colleges and 
+
+## JAMÖ
+
 Junge Allgemeinmedizin Österreich. Unabhängiger Verein von MedizinstudentInnen, ÄrztInnen in Ausbildung und AllgemeinmedizinerInnen bis 5 Jahre nach Abschluss der Ausbildung. Teilorganisation der ÖGAM. [https://jamoe.at](https://jamoe.at)
 
-##ÖGAM
+## ÖGAM
+
 Österreichisches Gesellschaft für Allgemein- und Familienmedizin. Unabhängige Fachgesellschaft für Allgemeinmedizin in Österreich. Mitglied der WONCA. [https://oegam.at](https://oegam.at)
 
-##EURIPA
+## EURIPA
+
 European Association of Rural and Isolated Practitioners
 
-##VDGM
+## VDGM
+
 Vasco da Gama Movement - Europäischer Dachverband von Jungallgemeinmediziner-Organisationen. [http://vdgm.eu](http://vdgm.eu)
 
-##EQUIP
+## EQUIP
+
 Europäische Arbeitsgruppe für Qualität in der Primärversorgung
 
-##WONCA Europe
+## WONCA Europe
 
-##ÄAO 2015
-Ärzteausbildungsordnung 2015 ("Ausbildung NEU")
+Europäischer Dachverband der Fachgesellschaften für Allgemein- und Familienmedizin
+
+## ÄAO 2015
+
+Ärzteausbildungsordnung 2015 \("Ausbildung NEU"\)
+
+## NÖGAM
+
+Niederösterreichische Gesellschaft für Allgemeinmedizin - https://noegam.at
+
