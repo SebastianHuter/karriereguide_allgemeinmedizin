@@ -30,6 +30,7 @@
 
 * [Literaturempfehlungen](literaturempfehlungen.md)
   * [Color Atlas of Family Medicine, 2. Auflage, McGraw-Hill](color-atlas-of-family-medicine-2-auflage-mcgraw-hill.md)
+* [EBM-Guidelines](ebm-guidelines.md)
 
 ## Niederlassung
 
