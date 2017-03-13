@@ -1,1 +1,2 @@
-t.b.a
+Im Studium - vor allem im letzten Studienjahr -  kann man mit manchen Fortbildungsdiplomen anfangen - oft auch vergünstigt! Auf der Website der österreichischen [Akademie der Ärzte](https://www.arztakademie.at/oeaeknbspdiplome-zertifikate-cpds/oeaek-spezialdiplome/) gibt es eine Übersicht über die Spezialdiplome, die in Österreich angeboten werden. Fragt einfach direkt beim jeweiligen Veranstalter an, ob ihr als Studentin / Student auch schon mitmachen dürft! 
+
