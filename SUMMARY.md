@@ -7,6 +7,7 @@
 ## Studium
 
 * [Kann ich schon während dem Studium Zusatzdiplome machen?](kann-ich-schon-während-dem-studium-zusatzdiplome-machen.md)
+* [Allgemeinmedizin im Studium?](allgemeinmedizin-im-studium.md)
 
 ## Basisausbildung
 
