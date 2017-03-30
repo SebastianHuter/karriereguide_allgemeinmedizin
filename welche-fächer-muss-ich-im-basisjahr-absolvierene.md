@@ -1,2 +1,4 @@
 Für das Basisjahr gibt es keine gesetzlichen Vorgaben für Fächer. Insgesamt sind neun Monate zu absolvieren und dabei gewisse Kentnisse und Fähigkeiten zu erwerben, wie sie im Rasterzeugnis definiert sind. Prinzipiell kann man also auch mit seinem Arbeitgeber gewisse Sonderwünsche vereinbaren, sofern das Ausbildungsziel erreicht wird. Manche Häuser haben von sich aus die Basisausbildung so strukturiert, dass man möglichst viele Abteilungen und Fächer kennenlernt.
 
+Aufgrund der Wahlfachsituation in der Allgemeinmedizinausbildung, macht es zum Beispiel Sinn eines der 4 Wahlfächer \(siehe Punkt "Spitalsturnus\) schon in der Basisausbildung zu absolvieren. Während des Turnus sind ja nur 2 Wahlfächer vorgesehen, so könnte man zum Beispiel schon Neurologie oder Dermatologie in der Basisausbildung absolvieren. 
+
