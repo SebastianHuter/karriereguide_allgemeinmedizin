@@ -14,6 +14,7 @@
 * [Kleines Haus oder Zentralspital?](wie-wahle-ich-ein-geeignetes-krankenhaus-aus.md)
 * [Welche Fächer muss ich in der Basisausbildung absolvieren?](welche-fächer-muss-ich-im-basisjahr-absolvierene.md)
 * [Kann ich während der Basisausbildung eine Lehrpraxis machen?](kann-ich-während-dem-basisjahr-eine-lehrpraxis-machen.md)
+* [Wie finde ich andere Allgemeinmedizin-Interessierte vor Ort?](wie-finde-ich-andere-allgemeinmedizin-interessierte-vor-ort.md)
 
 ## Spitalsturnus
 
